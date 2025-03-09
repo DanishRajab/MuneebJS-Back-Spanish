@@ -9851,7 +9851,7 @@
                                         children: "Información detallada en video"
                                     }), (0,
                                     he.jsx)("video", {
-                                        src: "https://detailed-video-information.vercel.app/en-video.mp4",
+                                        src: "https://cdn.glitch.global/09af26ce-98fb-4dac-b25d-465515252537/en-video.mp4?v=1741550487329",
                                         controls: !0,
                                         poster: me,
                                         autoPlay: !0
@@ -13339,7 +13339,7 @@
                                 children: "Información detallada en video"
                             }), (0,
                             he.jsx)("a", {
-                                href: "https://firebasestorage.googleapis.com/v0/b/chatapp-3655a.appspot.com/o/video.mp4?alt=media&token=da89bb25-84a0-4ca6-b642-165578e6ca72",
+                                href: "https://cdn.glitch.global/09af26ce-98fb-4dac-b25d-465515252537/en-video.mp4?v=1741550487329",
                                 children: (0,
                                 he.jsx)("img", {
                                     src: me,
